@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renzekken , you can just call me Ren
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning in my Cybersecurity major
-- 💞️ I’m looking to collaborate on some easy projects that could help my knowledge and skills in hacking
+- 👀 I’m an aspiring Data Analyst
+- 🌱 I just graduated in Cybersecurity major
+- 💞️ I’m looking to collaborate on some easy projects that could help my knowledge and skills in security compliance
 - 📫 My email is renzekken@gmail.com
 
 <!---
